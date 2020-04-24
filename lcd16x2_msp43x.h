@@ -6,7 +6,7 @@
  * - with simple conversion of integer and float to print on lcd
  * - - I encourage you to use my "Embedded_Printf" together (convert the number to string)
  *
- *  author: Haroldo Amaral - agaelema@globo.com
+ *  author: Haroldo Amaral - agaelema@gmail.com
  *  v0.2.2 - 2017/12/28
  ******************************************************************************
  *  log:
