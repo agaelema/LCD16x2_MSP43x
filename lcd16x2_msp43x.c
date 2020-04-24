@@ -6,7 +6,7 @@
  * - with simple conversion of integer and float to print on lcd
  * - - I encourage you to use my "Embedded_Printf" together (convert the number to string)
  *
- *  author: Haroldo Amaral - agaelema@globo.com
+ *  author: Haroldo Amaral - agaelema@gmail.com
  *  v0.2.1 - 2017/12/28
  ***************************************************************************************
  *  log:
@@ -173,9 +173,9 @@ void lcd16x2_PrintString(char *str)
 
 
 /*
- * versão muito limitada
+ * versÃ£o muito limitada
  * - indicar o uso da embedded_printf
- * Converte um número inteiro para ser escrito no LCD de -9999 a 9999
+ * Converte um nÃºmero inteiro para ser escrito no LCD de -9999 a 9999
  */
 /***************************************************************************************
  *
@@ -205,7 +205,7 @@ void lcd16x2_PrintInt(volatile int_fast16_t iNumber)
 
 
 /*
- * utiliza "car_float" como double para garantir que o número não seja arredondado
+ * utiliza "car_float" como double para garantir que o nÃºmero nÃ£o seja arredondado
  * rotina atual aceita caracteres de -9999.9999 a 9999.9999
  */
 /***************************************************************************************
